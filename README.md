@@ -3,18 +3,21 @@
 A full-stack web application for booking home services on-demand. This platform connects customers with service providers, handling the entire lifecycle from booking creation to job completion.
 
 ## 🚀 Live Demo
-[Insert Your Vercel Link Here]
+(https://home-services-marketplace.vercel.app/)
 
 ## 📸 Screenshots
 
 ### Customer Booking
-![Home Page](./screenshots/home.png)
+Home Page
+<img width="1694" height="843" alt="image" src="https://github.com/user-attachments/assets/9d2b06a6-6fea-4fd5-8478-60f1c33a21da" />
+
 
 ### Dashboard (Provider View)
-![Dashboard](./screenshots/dashboard.png)
+
+<img width="1567" height="697" alt="image" src="https://github.com/user-attachments/assets/c319b0ab-d137-456c-8652-dede2678392a" />
 
 ### Admin Console
-![Admin Panel](./screenshots/admin.png)
+<img width="1479" height="849" alt="image" src="https://github.com/user-attachments/assets/52bf5565-db0b-4fee-96a1-1cf2115b42e5" />
 
 ---
 
